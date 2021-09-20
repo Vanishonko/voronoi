@@ -10,3 +10,4 @@ space toggles the movement of the points
 c toggles the change of the points' colors (flash warning)
 p toggles the drawing of the points
 o toggles the change of color of the points
+h shows a pop-up with this information
